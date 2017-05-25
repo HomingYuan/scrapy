@@ -1,0 +1,22 @@
+city:深圳
+
+date:05-25		day:多云(30°C )		night:多云( 23°C)
+
+date:05-26		day:多云(30°C )		night:多云( 24°C)
+
+date:05-27		day:多云(30°C )		night:多云( 25°C)
+
+date:05-28		day:多云(31°C )		night:多云( 25°C)
+
+date:05-29		day:多云(32°C )		night:多云( 25°C)
+
+date:05-30		day:小雨(31°C )		night:多云( 24°C)
+
+date:05-31		day:零散雷雨(29°C )		night:雷雨( 26°C)
+
+date:06-01		day:雷雨(29°C )		night:雷雨( 27°C)
+
+date:06-02		day:雷雨(29°C )		night:雷雨( 26°C)
+
+date:06-03		day:阵雨(29°C )		night:雨( 26°C)
+
